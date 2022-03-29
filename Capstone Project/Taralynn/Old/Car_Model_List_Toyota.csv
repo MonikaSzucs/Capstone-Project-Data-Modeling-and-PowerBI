@@ -1,0 +1,580 @@
+objectId,createdAt,updatedAt,ACL,Category,Year,Make,Model
+SAcDrXuba4,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2020,Toyota,Tacoma Double Cab
+6JaEDMeiTk,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Coupe,2020,Toyota,GR Supra
+rvTNpTvBWS,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,RAV4 Hybrid
+yQqIjnqhkg,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,Sequoia
+WwUXBRSv2w,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Corolla
+QC59Hx9HcF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Camry Hybrid
+Z7oiPo7F39,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Camry Hybrid
+BRqpQwyPZh,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,Highlander Hybrid
+eJfSKUCGFS,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2020,Toyota,Tacoma Access Cab
+ByO83Jdx4a,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Avalon
+5qjmBV6Y8N,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,RAV4
+C3U5OCCmTS,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Mirai
+xDW1syDp5D,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Corolla Hybrid
+LvrBvYwIba,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Yaris
+4LvQ9e1v3h,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,4Runner
+eSflgEd0lA,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,Highlander
+Utt3Huf2Hl,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,4Runner
+fUIxh7fGZL,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2020,Toyota,Yaris Hatchback
+IpyATBPv8T,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2020,Toyota,Corolla Hatchback
+k8zLtmfxeO,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,RAV4
+nok0tQaeTY,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Avalon
+IhimWvKgF8,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2019,Toyota,Tacoma Access Cab
+JQASsTiAYw,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2019,Toyota,Prius Prime
+F6oTnY3DUG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2018,Toyota,Prius Prime
+TTTkSHg50n,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2020,Toyota,Tundra CrewMax
+ot6ulJ7L23,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2019,Toyota,Tundra Double Cab
+pDy4Wh6Lbu,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Camry Hybrid
+kbLLUS0rPx,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2017,Toyota,Prius
+QXM3RElrNp,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,Sequoia
+Vml7tJAkdi,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Corolla
+npBgcKLAAa,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,Highlander Hybrid
+jePMKOiQmH,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Avalon Hybrid
+aSgg5lsHtT,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Coupe,2020,Toyota,86
+CF1GZv1obV,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2020,Toyota,Prius
+aQHzrmnodR,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,C-HR
+M7UIbL21MX,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Coupe,2019,Toyota,86
+YQHIE6tl9z,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,C-HR
+E0BqMwzTD1,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Avalon Hybrid
+jvkMyoaWgs,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2019,Toyota,Prius
+Ohc4C7urDW,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2019,Toyota,Sienna
+Lt03B3TN27,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,Highlander Hybrid
+kVeOPUNUgA,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Yaris
+wFPu9CtAEu,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2018,Toyota,Yaris
+iumP70sL1Y,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2017,Toyota,Prius Prime
+Gss4hkNglK,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,Highlander Hybrid
+YT0wYBMELd,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2018,Toyota,Prius
+rA8w2bFDtz,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Yaris iA
+9UOOEIWst2,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2017,Toyota,Prius v
+JPwZVcPkQz,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2018,Toyota,Prius c
+qZEuvH5m8G,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,Land Cruiser
+FIFtNhmgAT,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2017,Toyota,Tacoma Access Cab
+FuiFTyanYF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2020,Toyota,Camry
+SuH6Wbvge4,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2020,Toyota,Prius Prime
+LaGdqwpMWG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2020,Toyota,Land Cruiser
+OZoFYWRAcz,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2020,Toyota,Sienna
+3xv67YuvY9,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Corolla
+ZRKcPb6bqH,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,Highlander
+O4Hhz282EC,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2019,Toyota,Tacoma Double Cab
+ZY7QbxhyQR,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2019,Toyota,Camry
+GNyvwVlK2W,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,C-HR
+QfqnYQ7XYX,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Camry
+COgHW5lsaz,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,Sequoia
+523EJseEMe,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,Highlander
+6socXXLYnD,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Mirai
+0sMXO9FpGp,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2018,Toyota,Tacoma Access Cab
+cBaXIsZnRL,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2018,Toyota,Tundra CrewMax
+CSYZ29qlJG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,4Runner
+9Fo4XYb4DZ,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,Sequoia
+vNaaZlszFm,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Coupe,2017,Toyota,86
+r5MXWyi2hZ,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,RAV4 Hybrid
+fY8qDXFUFV,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2017,Toyota,Tundra CrewMax
+Hcjira8JJC,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2019,Toyota,Prius c
+CEWCWOxAJ2,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2020,Toyota,Tundra Double Cab
+gblsyrHYcM,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2019,Toyota,Corolla Hatchback
+P1LA8AsDql,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Avalon
+z4eF6iB446,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,4Runner
+pDUGd84aRF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Mirai
+gKhrylqHIm,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,RAV4 Hybrid
+KenZREXWs2,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2018,Toyota,Avalon Hybrid
+3ECzxKVQNT,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,RAV4 Hybrid
+UUQMUky1tJ,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Corolla
+s4xoyi4t3G,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Avalon Hybrid
+hvlWyWhx2Q,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Avalon
+P4XPLMfj1y,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2018,Toyota,Tundra Double Cab
+YG4FkT1m9r,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2017,Toyota,Corolla iM
+UMdbBkcYZP,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2017,Toyota,Sienna
+TuO2wSuFBR,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2017,Toyota,Tundra Double Cab
+uYhhXJY262,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2019,Toyota,Land Cruiser
+CDKmP0IIhh,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Coupe,2018,Toyota,86
+3kqpcontFb,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2019,Toyota,Tundra CrewMax
+h34OF1Ug4L,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,Highlander
+MhC6qBcC2x,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,Land Cruiser
+5EQnyJm0nM,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2018,Toyota,Sienna
+QTIWCURh7v,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2018,Toyota,RAV4
+TgOSSF9QmF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2018,Toyota,Tacoma Double Cab
+v5O2SRCASg,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Camry Hybrid
+eKtaEFjSSM,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2017,Toyota,Tacoma Double Cab
+XxSLhLhoFD,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2017,Toyota,RAV4
+UogwOKUqCC,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Camry
+FAPOvNuSzL,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2018,Toyota,Corolla iM
+AGNWP3OiME,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2017,Toyota,Prius c
+GvEleKa6s9,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2017,Toyota,Tundra Regular Cab
+ve6AieFvtQ,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2016,Toyota,Sequoia
+JECYOI6qBw,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2016,Toyota,Mirai
+tmip7nYCEB,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2016,Toyota,Prius
+gVG6uYUKAf,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2016,Toyota,Corolla
+khgekCXPOj,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2016,Toyota,RAV4
+M8zGiTU7yk,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2016,Toyota,4Runner
+HHdybFvYes,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2016,Toyota,Land Cruiser
+GIL0EzAIqO,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2017,Toyota,Yaris
+xyyxEDGVEq,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2016,Toyota,Tacoma Access Cab
+k3WB0mv0rF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2017,Toyota,Yaris iA
+5X3NM70y7s,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2016,Toyota,Avalon
+zbojFQ5lq3,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2016,Toyota,Tundra Double Cab
+WAO3g705d1,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2016,Toyota,Prius c
+ExerrvSrV7,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2016,Toyota,Tundra CrewMax
+05WbAVe4pW,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2015,Toyota,4Runner
+cP4KMdQbG6,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2016,Toyota,Highlander
+ycFnNht6cI,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2016,Toyota,Camry
+L3kxygPdjN,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2016,Toyota,Tacoma Double Cab
+FwF1nI1FmF,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2016,Toyota,Prius v
+8GD9nBgvLG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2016,Toyota,Sienna
+GdNlOlF9Lj,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2016,Toyota,Tundra Regular Cab
+RADEqreMQO,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2015,Toyota,Tundra Double Cab
+kU9gjx46cE,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2016,Toyota,Yaris
+qyiWPgCaRL,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2015,Toyota,Camry
+p69rx4kixW,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2015,Toyota,RAV4
+PnVkCtq5B4,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2015,Toyota,Land Cruiser
+aYtSblYo0S,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2015,Toyota,Avalon
+LJnP9jV9Fr,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2015,Toyota,Prius v
+sqQyr06Hyo,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2015,Toyota,Sequoia
+n7hV20EwwG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2015,Toyota,Highlander
+xPCosceM8G,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2015,Toyota,Prius
+rQjNR4P44z,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2015,Toyota,Sienna
+LvXlWVBC4W,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2015,Toyota,Prius c
+1SdrNjj0UA,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2015,Toyota,Tundra CrewMax
+GWUuQZhQZT,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2015,Toyota,Prius Plug-in Hybrid
+U8px1qzOVr,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2015,Toyota,Tacoma Double Cab
+cDQO5d8JFi,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,Highlander
+pRIErMNdZK,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2015,Toyota,Tundra Regular Cab
+m4BJRF2ppA,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2014,Toyota,Avalon
+SaDSJ1A2Se,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2014,Toyota,Camry
+95LprEhVWI,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,4Runner
+WmfHErzBZP,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,FJ Cruiser
+AOvZ3m7dlz,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2015,Toyota,Yaris
+EdfV68wQ12,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2014,Toyota,Prius v
+87IeAATn9m,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,Land Cruiser
+kM5kfzE2F9,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2015,Toyota,Corolla
+oLAuo6W88D,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,RAV4
+OYXGLHShTY,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2014,Toyota,Prius Plug-in Hybrid
+UPA8B5cutv,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2014,Toyota,Prius
+VcGhxFHzpI,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tacoma Regular Cab
+MPCBRjbHOG,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tacoma Double Cab
+SlHJJwLWT5,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2014,Toyota,Venza
+z2ujue2AcM,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2015,Toyota,Tacoma Access Cab
+aIsQup2n0Q,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tacoma Access Cab
+UBPnd6mPM8,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2013,Toyota,Corolla
+XmExe9SXlP,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2014,Toyota,Sequoia
+eEsOQ2OhQ7,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2014,Toyota,Yaris
+YjlTQQiVAC,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2015,Toyota,Venza
+dX4KltQ3nq,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2014,Toyota,Corolla
+qSGZ7beAGO,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2013,Toyota,Prius
+YyM4U4vFWb,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,4Runner
+8bJ9RMaCpJ,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tundra CrewMax
+pzwr3EGthu,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tundra Regular Cab
+nSp58gId9B,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,FJ Cruiser
+bFIDlsfZQV,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2013,Toyota,Camry
+EkcBwM7OPB,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2013,Toyota,Prius c
+QETBa1fyeq,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2014,Toyota,Prius c
+74Sc7u28ff,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tacoma Regular Cab
+khUpk0AN9H,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2013,Toyota,Yaris
+1gzUrhL5n6,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,Sequoia
+VARArVWWb8,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2014,Toyota,Sienna
+irzHf57cxq,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2012,Toyota,Avalon
+6j9W4G2iKq,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2012,Toyota,FJ Cruiser
+xgYcrzMJAP,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2013,Toyota,Sienna
+1HVDUvTf9x,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2014,Toyota,Tundra Double Cab
+cMG9CCtyjI,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tacoma Double Cab
+Lk8qJAzlyk,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tundra CrewMax
+psqeBVvQUb,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2012,Toyota,4Runner
+qUsX0T5lW8,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2012,Toyota,Matrix
+YvbMVZjdzu,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,Highlander
+GyQy6FQWq3,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2012,Toyota,RAV4
+lxaQqZ376U,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2012,Toyota,Camry
+jAaVsGWa1n,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2013,Toyota,Matrix
+R7jroizADm,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tundra Double Cab
+qSqBJDf7v1,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2013,Toyota,Prius v
+WrPcv2zIlK,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tacoma Access Cab
+7qi2wDD1wU,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,RAV4
+YKfcUzgJ4j,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,Venza
+kdsoyJUQb1,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2012,Toyota,Highlander
+UA2albamF4,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2013,Toyota,Prius Plug-in Hybrid
+vOlIC0V9zB,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2013,Toyota,Land Cruiser
+Plz4Q0a9yh,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2013,Toyota,Avalon
+vG3ZnnUvD7,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,SUV,2012,Toyota,Sequoia
+2VQ585OSFf,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2012,Toyota,Prius c
+JrAjIrBIIe,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Pickup,2013,Toyota,Tundra Regular Cab
+CTjbRRDqgH,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Wagon,2012,Toyota,Prius v
+n5UhcyRaKP,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2012,Toyota,Prius Plug-in Hybrid
+k2RW4rN8G3,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Sedan,2012,Toyota,Corolla
+bTv7qTLZTt,Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:02 GMT-0800 (Pacific Standard Time),null,Hatchback,2012,Toyota,Prius
+RkDvFgj9MB,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2012,Toyota,Sienna
+4KuJIze4C2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tundra CrewMax
+FrpIMEM4ws,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tacoma Access Cab
+Uy45h2EClC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tacoma Regular Cab
+hzoKQstEuF,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tacoma Double Cab
+K4F75ODrb2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tundra Regular Cab
+xcOh5O9cX0,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,4Runner
+BVABEe20Kn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2011,Toyota,Avalon
+50RHbUQR0C,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2012,Toyota,Tundra Double Cab
+cX6n1h3mZY,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,Highlander
+H6NBIkaQXK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,Sequoia
+OEu0H7MmNI,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Sedan",2012,Toyota,Yaris
+ufQdcytLCM,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2012,Toyota,Venza
+tEOWO4lmh8,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,FJ Cruiser
+nlHSj9OJms,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2011,Toyota,Corolla
+eOnHN4VNSI,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,4Runner
+Dfo8ctJ3F2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,RAV4
+JzDGj0XXgq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tacoma Double Cab
+z2r3admh0k,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2011,Toyota,Land Cruiser
+hQgr0CR1om,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2011,Toyota,Venza
+1V8FCEdpgp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tacoma Access Cab
+XEJ46UhfDZ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2011,Toyota,Camry
+ov0jGIOpTu,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2011,Toyota,Matrix
+2TRaatSF0X,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tacoma Regular Cab
+tm9EaHtakk,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tundra CrewMax
+6CtNHiwPGo,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2011,Toyota,Prius
+lhDCEWhwRm,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2011,Toyota,Sienna
+wCEYBMM7AO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2010,Toyota,Corolla
+0jonCfuap3,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tundra Double Cab
+Z78QJs6c6V,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2009,Toyota,Corolla
+SgmM9zKZG2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,Highlander
+YoSmPqzg3y,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,FJ Cruiser
+ZuWdWjXxdS,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,Sequoia
+yS2yBjHDvH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2010,Toyota,Prius
+tPol4XBHpe,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tundra Double Cab
+sg0oEFwDJ3,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tacoma Access Cab
+9u02HygpDW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2010,Toyota,Sienna
+6TOnQXcw95,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2010,Toyota,Camry
+C94isoXTL9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2011,Toyota,Tundra Regular Cab
+O1jP9STodX,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2010,Toyota,Matrix
+skW5Rx3dGm,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tacoma Double Cab
+yRR7PtcneZ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2010,Toyota,Venza
+H24hGnyXSc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Sedan",2011,Toyota,Yaris
+xlHDHM1Wpa,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2010,Toyota,Avalon
+yduFYnNvjP,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tacoma Regular Cab
+cb79wZhpcH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tundra CrewMax
+2X193CXTXE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,4Runner
+1Bp1HYXclL,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,RAV4
+1PHjPfTNkR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2010,Toyota,Land Cruiser
+Qqa4zXr47h,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,Highlander
+gNemxVeJxP,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2010,Toyota,Tundra Regular Cab
+NzGmGXjNCJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,Sequoia
+O3qyf2tBCo,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2009,Toyota,Venza
+EIoWPhPC8O,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2009,Toyota,Avalon
+DLNVBLBU0v,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2009,Toyota,Prius
+DxEcyAoDzE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tundra CrewMax
+0AzamYzZNC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,4Runner
+0YppW5U17r,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Hatchback",2010,Toyota,Yaris
+cEADGjxHPv,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,FJ Cruiser
+j0kuO9c7gF,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tacoma Double Cab
+DUoIgYf9fA,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2009,Toyota,Camry
+YAgosMzhIB,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,Land Cruiser
+RIGzMVJQA2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2009,Toyota,RAV4
+eEJOemGdhU,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2009,Toyota,Sienna
+Ke2oxjoxhc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2008,Toyota,Corolla
+EE7HeNXrMb,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2008,Toyota,Prius
+PdmHwasJ88,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tacoma Regular Cab
+t4DPnILXrY,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tacoma Access Cab
+36FfGdrln6,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tundra Regular Cab
+AkLGkewTHl,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tundra Regular Cab
+n8r2hJvnTE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tacoma Access Cab
+ZLFFFiD7em,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2009,Toyota,Tundra Double Cab
+0Nt7wIpO12,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,RAV4
+eUKDzjjYyJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Sedan",2009,Toyota,Yaris
+gdIpcHnCRJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2009,Toyota,Matrix
+hzcBKfnN1Z,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,Highlander
+6dWDig53KQ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,FJ Cruiser
+M21IjOAnJz,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2008,Toyota,Avalon
+oN0730hJmn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,Sequoia
+nN0ZQ8wgCc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2008,Toyota,Camry
+F4OutuqxUs,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,4Runner
+MXIc9JE5jK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tacoma Regular Cab
+Dhcgoxki0n,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2008,Toyota,Land Cruiser
+5u3WFWStMQ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2008,Toyota,Sienna
+XemDlo7Tic,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2007,Toyota,Corolla
+pzNFcWdQn8,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,Highlander
+DqHYmG7Oo8,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2008,Toyota,Matrix
+6w3KAneRrL,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2007,Toyota,Prius
+nqo9AwWIrU,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,FJ Cruiser
+Eg8qMDhUxp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,Sequoia
+djM8WLPJ9V,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2007,Toyota,Camry
+k63QFnBAJT,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2007,Toyota,Avalon
+AMbkOIbJx9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Sedan",2008,Toyota,Yaris
+1gwIjXvQhE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,Land Cruiser
+eXoAOzspVh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tacoma Double Cab
+77kHaiE6e2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tundra CrewMax
+qrSi2RXIFH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2008,Toyota,Tundra Double Cab
+2EkHjPWa3m,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2008,Toyota,Solara
+1QMbBATVKj,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2007,Toyota,RAV4
+Wsn1utTFQe,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2007,Toyota,Matrix
+R5op3UpLtX,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2007,Toyota,Sienna
+ePGlPNgQ9a,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Convertible, Coupe",2007,Toyota,Solara
+lYY9RCpz1S,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tacoma Access Cab
+b9MuRQHwsq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2006,Toyota,Corolla
+aBEI7CHbue,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tacoma Regular Cab
+W2oOZ8yv3d,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tundra Regular Cab
+k2iGzwpOxv,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tacoma Double Cab
+vr7xax3SAB,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2006,Toyota,RAV4
+2aUEaakRBL,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2006,Toyota,Highlander
+dhOTWJShRN,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tundra CrewMax
+cXR6IE2bPc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2006,Toyota,Avalon
+qL0meyPhQF,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Sedan",2007,Toyota,Yaris
+VXaejg084S,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2006,Toyota,Land Cruiser
+FJbhA0Fp59,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2007,Toyota,Tundra Double Cab
+5KKDFfAlFE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2006,Toyota,Camry
+nxcvmviFfG,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2006,Toyota,Sequoia
+HW4qqZuDdK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2006,Toyota,Sienna
+hxtCm79j39,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2006,Toyota,4Runner
+qZNqAFW0oi,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tundra Access Cab
+R3SEd7OBHD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2006,Toyota,Matrix
+Ez8VfVAziQ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2006,Toyota,Prius
+D3xu9AfhH8,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tacoma Regular Cab
+90kAKPyZ49,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tacoma Double Cab
+ZLn9OCjJfv,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tacoma Access Cab
+sStz3WMUyt,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2006,Toyota,Solara
+EvF8utxWOM,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2005,Toyota,Camry
+bpm8nvJIuP,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2005,Toyota,4Runner
+i0zPMz2t0W,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2005,Toyota,Avalon
+Tb5QeoearV,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tundra Double Cab
+qGZyiPD9r6,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2005,Toyota,Echo
+eE9ezcZWQj,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2005,Toyota,Land Cruiser
+iqH44PQ2Xz,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tundra Regular Cab
+YD5kNUSnpX,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2005,Toyota,Sequoia
+osWLZOSS7V,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2005,Toyota,Highlander
+L1NNq2OQxa,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2005,Toyota,Solara
+qQhADcMCfr,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2004,Toyota,Avalon
+dECsP4pSok,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2004,Toyota,4Runner
+CZMwAcVgck,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2006,Toyota,Tundra Regular Cab
+wCNZW83cu5,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2005,Toyota,Matrix
+tG23gcxqIP,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2005,Toyota,Celica
+9ZFEFqMkAA,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tacoma Access Cab
+ACTXFSwC1m,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tacoma Double Cab
+QnaFBYTUgW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2004,Toyota,Corolla
+Pea4kM46DK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tacoma Double Cab
+1soPIMcrmy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2005,Toyota,Prius
+fwWWdEwuAm,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2005,Toyota,Sienna
+Zncrqbj6Xs,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2005,Toyota,Corolla
+vdK94BtJQg,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2004,Toyota,Echo
+0NOznMgoQW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2004,Toyota,RAV4
+9EmCx0UmYD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2005,Toyota,RAV4
+icgYBv5tBp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tacoma Regular Cab
+sFthK9ir6G,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2004,Toyota,Prius
+JqDz2A7EdZ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2004,Toyota,Camry
+TEvvHGAlHQ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2005,Toyota,MR2
+SVCH9wrUWt,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2004,Toyota,Highlander
+qGgJGWePrZ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tundra Access Cab
+f86ctZnLQf,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2005,Toyota,Tundra Double Cab
+XFZ7DNBG7V,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2004,Toyota,MR2
+Tw5iFpT6KR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2004,Toyota,Celica
+PvO1rKfBiy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2004,Toyota,Sequoia
+8tE6aJggAf,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2004,Toyota,Solara
+Cm8MEsoIyC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2004,Toyota,Sienna
+Czl5mCjIdY,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tundra Regular Cab
+LW4XwN7E64,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tacoma Regular Cab
+iCWFDgASyh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2003,Toyota,Celica
+Aw4cCTLnaW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tundra Double Cab
+evP4df4Pjf,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tacoma Xtracab
+ZZlXZgqfvg,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2003,Toyota,4Runner
+kPY5f4Y0Ni,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Wagon,2003,Toyota,Matrix
+BlvEOqDKEI,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2003,Toyota,Sienna
+axrbVUGWT0,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2003,Toyota,Echo
+4Mo0tpdoVS,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2004,Toyota,Land Cruiser
+8SRaB4YK1r,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2004,Toyota,Tundra Access Cab
+WD9aWhNM53,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Wagon",2004,Toyota,Matrix
+fYq6ZpZ7yI,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2003,Toyota,Corolla
+wuaJ0K8n51,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2003,Toyota,MR2
+nLmQ7bl7V3,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2003,Toyota,Prius
+sdZ5nxsAn4,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2003,Toyota,Solara
+azuGEWFSeC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2003,Toyota,Avalon
+ilnHQ8WGNQ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2003,Toyota,RAV4
+TTbfZFnhe1,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2003,Toyota,Camry
+L83eEVLuOe,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2003,Toyota,Sequoia
+gvXLSOBGiU,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2003,Toyota,Tundra Access Cab
+FIa3FG4tzs,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2002,Toyota,Corolla
+xg8h7PMf97,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2003,Toyota,Land Cruiser
+f2tP4NjbDD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2003,Toyota,Tacoma Double Cab
+KKIiSr4bXY,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2003,Toyota,Highlander
+3iQ3r7hHEa,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2003,Toyota,Tundra Regular Cab
+Ct07rvLaMy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2002,Toyota,4Runner
+aMKQMaWcIs,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2002,Toyota,MR2
+D0YWkvBAYu,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2002,Toyota,Celica
+AIUN3B1sbq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2002,Toyota,Prius
+Q11XfAVCNO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2002,Toyota,Camry
+JlbvLeH5u9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2002,Toyota,RAV4
+2Ol960HMod,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2003,Toyota,Tacoma Regular Cab
+DHo9blDfzq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Coupe",2002,Toyota,Echo
+6QxEEkcvWd,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2002,Toyota,Avalon
+cLZZrbPcFj,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2003,Toyota,Tacoma Xtracab
+SB7G0bm5bd,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2002,Toyota,Highlander
+Ux8i5K85EO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2002,Toyota,Land Cruiser
+U0IN8BuQvE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2002,Toyota,Sienna
+cLTdCB8W1f,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2001,Toyota,Prius
+STu1Ne5WIS,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2001,Toyota,Highlander
+De5mHnGMV9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2002,Toyota,Solara
+O0MbCvLXnq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2002,Toyota,Tundra Access Cab
+iFhlznVBk4,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2001,Toyota,4Runner
+o5qVKngNJh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2001,Toyota,Land Cruiser
+K9jibpDo9I,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2001,Toyota,Corolla
+cfUe2Hjql5,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2002,Toyota,Tacoma Regular Cab
+0hLdijpFrR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2002,Toyota,Tundra Regular Cab
+RIAdeM21sM,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2002,Toyota,Sequoia
+emMYBtEqvF,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2001,Toyota,Celica
+XSuWolrFwG,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2001,Toyota,Avalon
+Pkf8voUgnU,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2001,Toyota,Sequoia
+tzLFh189ff,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2002,Toyota,Tacoma Double Cab
+9V9V88cvq1,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2002,Toyota,Tacoma Xtracab
+vYD8wo299q,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Sedan",2001,Toyota,Echo
+bPkEOuzOaD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2001,Toyota,Camry
+ZvospQ05Nc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2001,Toyota,Tundra Regular Cab
+EsMaDR0D8w,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2000,Toyota,Avalon
+rHeZtpvtPr,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2000,Toyota,Camry
+TYu2NBMEOy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2001,Toyota,Tundra Access Cab
+VIj5PTxy3f,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2001,Toyota,RAV4
+ySUQS5EwOz,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2001,Toyota,Sienna
+cdC0ToDFtC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2001,Toyota,Tacoma Xtracab
+eWCRgGMRvl,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2001,Toyota,Tacoma Regular Cab
+wgxidQ8viR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2001,Toyota,MR2
+5Yal48DG0b,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2001,Toyota,Solara
+kV3OgFd4T7,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,2000,Toyota,Corolla
+ZxC2DM1BdB,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,2000,Toyota,Celica
+QuM73cD8ih,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Convertible,2000,Toyota,MR2
+KOjHb0UgU0,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2001,Toyota,Tacoma Double Cab
+TA04SsY55f,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Coupe",2000,Toyota,Echo
+HeVB37Az4J,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2000,Toyota,Land Cruiser
+Fz2U6EJGhe,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2000,Toyota,4Runner
+p8yEJEnweW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible",2000,Toyota,Solara
+A1Dus4tM4J,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2000,Toyota,Tundra Regular Cab
+enOCgemTK5,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2000,Toyota,Tacoma Regular Cab
+hmQTDoLpfq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,2000,Toyota,RAV4
+mHHubHQBKh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,2000,Toyota,Sienna
+DhgSj4m64k,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1999,Toyota,RAV4
+7nEXhacW1r,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1999,Toyota,Avalon
+PIwFYXgbPO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1999,Toyota,Camry
+tvpV65sC21,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2000,Toyota,Tacoma Xtracab
+A5C4pvD7kH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1999,Toyota,Sienna
+mDYGzbO1lO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1999,Toyota,Land Cruiser
+xIsdkvW6no,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1999,Toyota,4Runner
+NHCuuNl4eh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1998,Toyota,Avalon
+joogQlSVfl,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1998,Toyota,Tacoma Regular Cab
+9X0uMHHZqa,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1999,Toyota,Tacoma Regular Cab
+P9NJDZcv2a,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1998,Toyota,Sienna
+rNfEAzCX4k,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Convertible",1999,Toyota,Celica
+C79dbzPxjv,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1998,Toyota,Land Cruiser
+EEgFuFXvOz,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1999,Toyota,Tacoma Xtracab
+GFdMJzeCh4,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1998,Toyota,RAV4
+PnVyb6kbuT,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,2000,Toyota,Tundra Access Cab
+jsPPYH8XOp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1999,Toyota,Solara
+acQT05mIby,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1997,Toyota,Camry
+Rv0PJBJvxn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1999,Toyota,Corolla
+APTsrnfHW9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1997,Toyota,4Runner
+9LHtZlCIlc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1998,Toyota,Camry
+Xp67sqSm6R,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1998,Toyota,4Runner
+AUzzBx3CB4,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Hatchback, Convertible",1998,Toyota,Celica
+7hoMQXnImg,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1998,Toyota,T100 Regular Cab
+w7c0OUNMKS,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1998,Toyota,Corolla
+GaYhb54qjb,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1997,Toyota,Land Cruiser
+JU8MeX6kuq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1997,Toyota,Previa
+7j8oLaTovj,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1998,Toyota,Tacoma Xtracab
+uB5cQVijZM,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1997,Toyota,Corolla
+a3s6TYsO7I,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1998,Toyota,T100 Xtracab
+nhRcI1oAcr,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1997,Toyota,Avalon
+LM4zATZAF8,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Coupe, Convertible",1997,Toyota,Celica
+YG4WBatBbU,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1998,Toyota,Tercel
+RAcosvn5lq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1998,Toyota,Supra
+P1JMkzUjH1,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1997,Toyota,T100 Regular Cab
+C8GfCFNmcc,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1997,Toyota,Tacoma Regular Cab
+KVVUc9Ia5F,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1996,Toyota,Previa
+TZqX4MQ95F,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1997,Toyota,T100 Xtracab
+x1p0nlErwb,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1997,Toyota,Tacoma Xtracab
+AaOWQaBS90,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Convertible",1997,Toyota,Paseo
+MlADlz1On5,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1996,Toyota,Land Cruiser
+7GBSztzPLY,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Coupe, Wagon",1996,Toyota,Camry
+Szgb86HqF2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1997,Toyota,RAV4
+bP8jxwpbDm,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1996,Toyota,4Runner
+oUoi1xUOsn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1996,Toyota,Tacoma Xtracab
+cbw9MmpOyL,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1996,Toyota,Tacoma Regular Cab
+WiT0JF0ytO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1997,Toyota,Supra
+KnJLYzGp28,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1996,Toyota,Avalon
+oFow5FQNhk,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1996,Toyota,T100 Regular Cab
+kLCKK2MEng,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1996,Toyota,RAV4
+RwdEEmbiCX,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1997,Toyota,Tercel
+VDvSbRrpUI,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1996,Toyota,Supra
+YiLACcemjt,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1996,Toyota,Corolla
+pFlK5AuBZK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Coupe, Wagon",1995,Toyota,Camry
+ss5AS47tgy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1995,Toyota,4Runner
+nhbAuo501C,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1995,Toyota,Avalon
+hPM6GiCEPK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1996,Toyota,Paseo
+AL3GVBnAB3,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Convertible, Coupe",1996,Toyota,Celica
+oklD7VR8Vh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1996,Toyota,T100 Xtracab
+R25bJ8gSuG,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1996,Toyota,Tercel
+6PRwXFRZGJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Convertible, Coupe",1995,Toyota,Celica
+FHCRSHe5yH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1995,Toyota,Corolla
+MunYP3UATO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1995,Toyota,MR2
+24uC2zK9ma,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1995,Toyota,Supra
+PFDQasJ69r,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1995,Toyota,Paseo
+IINinsyR0C,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,Tacoma Regular Cab
+xACRhV91GA,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1995,Toyota,Land Cruiser
+wTjAndbM4U,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1995,Toyota,Previa
+3ZoGl63trp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,T100 Regular Cab
+venmrhisBn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1994,Toyota,4Runner
+XAJgeNYVBD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,Regular Cab
+TxeUAc89tK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,Tacoma Xtracab
+nTediBgjlV,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1995,Toyota,Tercel
+Sp7b6iAu55,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,T100 Xtracab
+UBPiiJuKbo,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1995,Toyota,Xtra Cab
+wb9iWefLqE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1994,Toyota,Paseo
+gm7HnOOhjy,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1994,Toyota,Tercel
+DJu2ARvIJh,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1994,Toyota,T100 Regular Cab
+X8BE2VaArD,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1994,Toyota,Land Cruiser
+BkpGCknAMR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Hatchback, Coupe",1994,Toyota,Celica
+rFSurklUl9,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1994,Toyota,Xtra Cab
+SrE1vPloe2,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1994,Toyota,MR2
+upgQauxaWL,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Wagon, Sedan",1994,Toyota,Camry
+AJyCyac5TM,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1994,Toyota,Corolla
+CZ5dVwYr7m,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1994,Toyota,Previa
+Y3qlmbSlCH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Hatchback, Convertible",1993,Toyota,Celica
+yhc1xTuk9V,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1994,Toyota,Supra
+bBlchgXBK0,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1994,Toyota,Regular Cab
+0LhfmfUJSp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1993,Toyota,Corolla
+3jNSOwFoCT,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1993,Toyota,Supra
+bwSEYPAyBR,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Sedan",1993,Toyota,Tercel
+9ufGW3vHbH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1993,Toyota,MR2
+MfDTMArTUk,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Coupe, Convertible, Hatchback",1992,Toyota,Celica
+FX1LQIdCYH,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1992,Toyota,Regular Cab
+8BHbIqwyVC,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1993,Toyota,Previa
+DHwKodSmhK,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1993,Toyota,4Runner
+ilqrksKf4j,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Wagon, Sedan",1993,Toyota,Camry
+zq7Kv9965g,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1992,Toyota,Cressida
+7ZBjizfDdp,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1993,Toyota,Land Cruiser
+bMBN8WtZVT,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1992,Toyota,Paseo
+cC3Skcom1z,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1992,Toyota,Land Cruiser
+WCLX4hiZVl,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1993,Toyota,Paseo
+I35BCiR91C,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Sedan,1992,Toyota,Tercel
+y3DGKYfFeE,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1993,Toyota,T100 Regular Cab
+UadEeb8UAJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,SUV,1992,Toyota,4Runner
+xu726mE5Bn,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1993,Toyota,Regular Cab
+RYkDW9UlNq,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Hatchback,1992,Toyota,Supra
+DZBtpiiJWJ,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1992,Toyota,Camry
+erWCDqjBlW,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Van/Minivan,1992,Toyota,Previa
+CNkLgMkex7,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1993,Toyota,Xtra Cab
+uZmzGgERuV,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,"Sedan, Wagon",1992,Toyota,Corolla
+Ks9TDyBBLF,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Coupe,1992,Toyota,MR2
+w6sAsP0sRO,Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),Mon Jan 27 2020 14:19:03 GMT-0800 (Pacific Standard Time),null,Pickup,1992,Toyota,Xtra Cab
+JuUUXK3R8H,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Avalon
+8fEu9dSps8,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,4Runner
+IbIPZv0joy,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Hatchback,2021,Toyota,Prius Prime
+E0fptyWeet,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,RAV4
+Ow5guzWWWZ,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Camry
+l1sXBm6sah,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,C-HR
+fL1604AARN,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,RAV4 Prime
+JRlDNtmasp,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Corolla Hybrid
+bq2ImNuTGB,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,RAV4 Hybrid
+OP9Rs6Lq8z,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,Land Cruiser
+bnE4Xz0BNG,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,Highlander Hybrid
+Oe66KGAaBC,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Pickup,2021,Toyota,Tacoma Access Cab
+HknvNCckA0,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Hatchback,2021,Toyota,Prius
+ucZUDHu23X,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Avalon Hybrid
+WnQ4Pz10x0,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,Sequoia
+gG19im8LVk,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Van/Minivan,2021,Toyota,Sienna
+wTdNs7ygoD,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Hatchback,2021,Toyota,Corolla Hatchback
+YrMUJIBlpJ,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,Highlander
+QMKfmBwVD9,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Camry Hybrid
+VIJQbIy5Ty,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Coupe,2021,Toyota,GR Supra
+vOtqY9T8Mk,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Sedan,2021,Toyota,Corolla
+CvB3BEA6cZ,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Pickup,2021,Toyota,Tacoma Double Cab
+aJpjec4Wxq,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Pickup,2021,Toyota,Tundra Double Cab
+M0Gwrjwqqw,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,Pickup,2021,Toyota,Tundra CrewMax
+WmGVE0Ea3Z,Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),Thu Apr 15 2021 06:36:22 GMT-0700 (Pacific Daylight Time),null,SUV,2021,Toyota,Venza
